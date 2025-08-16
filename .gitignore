@@ -8,6 +8,7 @@ __pycache__/
 
 *.csv
 *.xlsx
+fake_reviews_dataset.csv
 
 *.log
 
